@@ -14,7 +14,7 @@ function App() {
     { segmentText: "won 10", segColor: "#815CD1" },
     { segmentText: "better luck next time", segColor: "#3DA5E0" },
     { segmentText: "won 6", segColor: "#34A24F" },
-    { segmentText: "won uber pass", segColor: "#34A246" },
+    { segmentText: "won uber pass", segColor: "#                                                                                                                                                                                                                                                                                                                          34A246" },
   ];
   const handleSpinFinish = (value: string) => {
     console.log('value:', value)
